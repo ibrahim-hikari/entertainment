@@ -1,0 +1,39 @@
+body{
+    background-color: lightskyblue;
+}
+
+body header h1 {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(50, 120 , 60)
+}
+
+header nav {
+    display: inline;
+    text-align: center;
+    }
+
+    ul li {
+    word-spacing: 0px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+main section h1 {
+    text-align: center;
+    font-size: 45px;
+    color: brown;
+}
+
+.fun img {
+    width: 100%;
+}
+
+.quo img {
+    width: 100%;
+}
+footer{
+    padding-top: 60px;
+}
