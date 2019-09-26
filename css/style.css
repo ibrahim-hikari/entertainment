@@ -49,3 +49,12 @@ footer{
 p {
     font-size: 120%;
 }
+h3{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header p {
+  font-size: 60px;
+  text-align: center;
+}
