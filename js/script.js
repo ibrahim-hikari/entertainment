@@ -17,4 +17,4 @@ if (hourNow >= 18) {
 document.write( ' <h3>' + greeting + ' </ h3>');
 
 var n = prompt('what is ur fav charchter?')
-alert('konichiwa, ' + n + '!!')
+alert('kon ichiwa, ' + n + '!!')
